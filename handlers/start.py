@@ -61,7 +61,7 @@ async def start_(client: Client, message: Message):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🌐 liya's Page", url="https://t.me/{UPDATES_CHANNEL}")
+                        "🌐 liya's Page", url="https://t.me/kidbots")
                 ],[
                     InlineKeyboardButton(
                         "🧪 kid Hub 🧪", url="https://t.me/kidhub"
